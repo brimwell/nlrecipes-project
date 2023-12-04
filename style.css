@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Kay+Pho+Du:wght@700&display=swap');
+
+
+/* Quick Simple Reset */
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  body {
+    margin: 0;
+  }
+ 
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+/* Main Styling */
+body {
+    font-family: 'Inter', sans-serif; 
+}
+
+h1, h2 {
+    font-family: 'Kay Pho Du', sans-serif;
+}
+
+#mainpage li {
+    font-family: 'Kay Pho Du', sans-serif;
+}
+
+
+main {
+    width: 70%;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+#overview p {
+    margin: 0 0 1rem 0;
+}
+
+#overview h1 {
+    margin: 0;
+}
+
+#overview h2 {
+    margin-bottom: 0;
+}
+
+#overview {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+#ingredients h2 {
+    margin-bottom: 0;
+}
+
+#ingredients {
+    margin: 2rem;
+}
+
+#steps h2 {
+    margin-bottom: 0;;
+}
+
+#steps {
+    margin: 2rem;
+}
+
+#steps li {
+    padding: 0 0 .5rem 0;
+}
+
+#mininav p {
+    display: inline-block;
+    margin: 0 4rem;
+}
+
+#mininav {
+    text-align: center;
+}
+
+#mainpage img {
+    margin: 1rem 0;
+}
+
+#mainpage ul {
+    list-style-type: none;
+    font-size: 1.35rem;
+}
+
+#mainpage li {
+    margin-bottom: .5rem;
+}
+
+#mainpage {
+    height: 100vh;
+}
+
+/* HL Decoration and Styling */
+
+body {
+    background-color: lightgray;
+}
+
+main {
+    background-color: white;
+}
+
