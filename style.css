@@ -43,7 +43,11 @@ main {
 }
 
 #overview p {
-    margin: 0 0 1rem 0;
+    margin: 0;
+}
+
+#overview img {
+    margin: 1rem 0;
 }
 
 #overview h1 {
@@ -67,9 +71,22 @@ main {
     margin: 2rem;
 }
 
+#notes {
+    margin: 2rem;
+}
+
+#notes h2 {
+    margin-bottom: 0;
+}
+
+#notes p {
+    margin: 0;
+}
+
 #steps h2 {
     margin-bottom: 0;;
 }
+
 
 #steps {
     margin: 2rem;
